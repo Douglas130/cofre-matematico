@@ -1,0 +1,27 @@
+PASS  tela inicial visível
+PASS  avançado gera 6 módulos
+PASS  os 4 tipos de módulo estão presentes
+PASS  resumo oculto durante a partida
+PASS  cronômetro entra em estado crítico
+PASS  existe módulo não resolvido
+PASS  módulo 0 (selecao) resolvido pela UI
+PASS  existe módulo não resolvido
+PASS  módulo 1 (operacao) resolvido pela UI
+PASS  existe módulo não resolvido
+PASS  módulo 2 (termo) resolvido pela UI
+PASS  existe módulo não resolvido
+PASS  módulo 3 (sequencia) resolvido pela UI
+PASS  existe módulo não resolvido
+PASS  módulo 4 (termo) resolvido pela UI
+PASS  existe módulo não resolvido
+PASS  módulo 5 (sequencia) resolvido pela UI
+PASS  todos os 6 módulos desarmados
+PASS  tela de vitória exibida
+PASS  resumo visível após vitória
+PASS  há módulo numérico para forçar erro
+PASS  erro 1 registrado
+PASS  erro 2 registrado
+PASS  erro 3 registrado
+PASS  tela de derrota exibida
+PASS  repetir mesma semente preserva a seed
+PASS  nenhum erro de console/página: 
